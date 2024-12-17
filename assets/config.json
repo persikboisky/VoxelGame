@@ -1,0 +1,9 @@
+{
+  "FOV": 70,
+  "KEY_UP": 32,
+  "KEY_DOWN": 340,
+  "KEY_LEFT": 65,
+  "KEY_RIGHT": 68,
+  "KEY_FRONT": 87,
+  "KEY_REAR":  83
+}
